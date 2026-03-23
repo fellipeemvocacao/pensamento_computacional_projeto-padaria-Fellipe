@@ -56,4 +56,3 @@ Finalização: Escolhe "Entrega", define "PIX" como pagamento e recebe a confirm
 
 Desenvolvido como projeto de aprendizagem em lógica de programação com Python.
 Primeiro repositorio para práticas de vensionamento de github e prompt de comandos.
-
