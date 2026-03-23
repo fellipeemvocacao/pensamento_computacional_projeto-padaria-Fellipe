@@ -101,7 +101,7 @@ while True:
                 carrinho.append(nomes[item])
                 print(f"✅ {nomes[item]} adicionado! Subtotal: R${total_conta:.2f}")
 
-        elif categoria == "5":
+        elif categoria == "4":
             print("\n[PROMOÇÕES]\n17-Combo 1 - Coxinha + Suco (R$8)\n18-Combo 2 - Torta + Refrigerante (R$12)\n19-Combo 3 - Esfiha + Suco (R$7)")
             item = input("Digite o NÚMERO do produto: ")
             
